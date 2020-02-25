@@ -40,6 +40,6 @@ For more information, use `makemigration --help`, `runmigration --help`
 * Migration action sorting procedure need some fixes. When many foreign keys in tables, there is a bug with action order. Now, please check it manually (`--preview` option)
 * Need to check (and maybe fix) field types: `BLOB`, `RANGE`, `ARRAY`, `GEOMETRY`, `GEOGRAPHY`
 
-##Author
+## Author
 * Omair Afzal
 
